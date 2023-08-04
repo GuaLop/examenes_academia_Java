@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Excepciones.iml" filepath="$PROJECT_DIR$/Excepciones/Excepciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/InyeccionDependencias/InyeccionDependencias.iml" filepath="$PROJECT_DIR$/Excepciones/InyeccionDependencias/InyeccionDependencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/Excepciones/Lambdas/Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Multicach/Multicach.iml" filepath="$PROJECT_DIR$/Excepciones/Multicach/Multicach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/Observer/Observer.iml" filepath="$PROJECT_DIR$/Excepciones/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excepciones/TryWithResource/TryWithResource.iml" filepath="$PROJECT_DIR$/Excepciones/TryWithResource/TryWithResource.iml" />
+    </modules>
+  </component>
+</project>
